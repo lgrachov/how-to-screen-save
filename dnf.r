@@ -1,0 +1,1 @@
+window(NFC) in Scan)
